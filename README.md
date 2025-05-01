@@ -1,6 +1,6 @@
 # Block X Bluster
 
-A fast-paced, arcade-style shooting game built with React and Next.js. Destroy falling blocks, collect power-ups, and achieve the highest score possible!
+A fast-paced, arcade-style shooting game built with  Next.js. Destroy falling blocks, collect power-ups, and achieve the highest score possible!
 
 ## 🎮 Features
 
@@ -20,7 +20,6 @@ Try the game: [Block X Bluster Demo](https://block-x-bluster.vercel.app/)
 
 ## 🛠️ Technologies Used
 
-- React.js
 - Next.js
 - TypeScript
 - Tailwind CSS
